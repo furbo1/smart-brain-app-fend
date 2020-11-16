@@ -9,3 +9,7 @@
     cursor: pointer;
 }
 
+#inputImage {
+    width: 400px;
+    height: 550px;
+}
