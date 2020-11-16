@@ -33,7 +33,7 @@ NPM Packages
 APIs
 
     Clarifai
-    Smart Brain repo
+   
 
 Acknowledgements
 
