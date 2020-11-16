@@ -13,7 +13,7 @@ Back-End
     Node.js
     Express.js
     PostgreSQL
-    [Back-end repository](https://github.com/furbo1/smart-brain-API-node/)
+[Back-end repository](https://github.com/furbo1/smart-brain-API-node/).
 
 NPM Packages
 
