@@ -40,8 +40,6 @@ Acknowledgements
 This was the final project of Andrei Neagie's course: The Complete Web Developer in 2021: Zero to Mastery.
 
 Feel free to clone/fork this repo.
-<<<<<<< HEAD
-=======
 
 
 
@@ -50,4 +48,3 @@ Feel free to clone/fork this repo.
 
 
 
->>>>>>> 572dd8fae64d7666859f99f019cb1cd652116cca
