@@ -1,14 +1,14 @@
 
 Smart Brain app uses Clarifi API to detect faces from pictures.
-Technologies used:
-*Node
-*Express
-*Bcrypt
-*Postgresql
-*knex
-*body parser
-*cors
-View/Test it here: [Create React App](https://smart-brain-app-fend.herokuapp.com/).
+Technologies/packages used:
+#Postgresql
+#Node
+#Express
+#Bcrypt
+#Knex
+#Body parser
+#Cors
+View/Test it here: [Smart Brain Demo](https://smart-brain-app-fend.herokuapp.com/).
 
 
 
