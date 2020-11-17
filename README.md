@@ -1,5 +1,7 @@
 View/Test it here: [Smart Brain Demo](https://smart-brain-app-fend.herokuapp.com/).
 
+![Alt text](https://github.com/furbo1/smart-brain-app-fend/blob/main/smart.png)
+
 Important Note: It's been reported that the Clarifi API at times does not work and the code needs updating. If you notice that it does not work, kindly inform me so I can update the code.
 
 Technologies Used:
